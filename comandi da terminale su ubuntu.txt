@@ -1,0 +1,18 @@
+sudo: amministratore del computer
+apt-get: gestore dei pacchetti
+apt: gestore dei pacchetti
+rm: cancella i file 
+touch: crea dei file e aggiungere l'estensione
+ls: elenca i file
+pwd: visualizza il percorso della cartella corrente
+cp: copia i file (percorso da copiare destinazione)
+cd: spostarsi nelle cartelle
+mv: rinominare i file oppure spostare i file
+man: manuale comando
+mkdir: crea cartella
+cat: visualizza il contenuto di file.txt
+chmod +x : aggiungi i permessi di eseguire un file
+bash: esegue script.sh
+less: visualizza il contenuto del file.txt
+clear: pulisce il terminale
+history: visualizza i comandi precendenti
